@@ -4,7 +4,7 @@ An independent, static, local-video clipping studio. Original interface and iden
 
 ## Run / GitHub Pages
 
-Serve this directory as a static site, e.g. `python3 -m http.server 8000`, or publish its files at a GitHub Pages repository root. All assets use relative paths; hash navigation also works under a repository subpath. No build step or API keys are needed. This directory has not been deployed.
+Serve this directory as a static site, e.g. `python3 -m http.server 8000`, or publish its files at a GitHub Pages repository root. All assets use relative paths; hash navigation also works under a repository subpath. No build step or API keys are needed. Live site: https://1animepahe-svg.github.io/cutloom-studio/
 
 ## How to use
 
